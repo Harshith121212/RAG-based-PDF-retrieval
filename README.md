@@ -33,10 +33,15 @@ At query time:
 
 5. User question → vector search in Qdrant
 
-6. Retrieve top matching chunks
+6. Retrieve top matching chunks..
 
-Pass context to Gemini
+7. Pass context to Gemini
 
-Gemini answers using only PDF data
+8. Gemini answers using only PDF data
 
-Page number reference included
+9. Page number reference included
+
+
+   <img width="1566" height="320" alt="image" src="https://github.com/user-attachments/assets/8e8f0990-60ea-4e40-a4ae-eb3757ca28cf" />
+
+
